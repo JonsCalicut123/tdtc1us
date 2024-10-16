@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+TDTC – Cổng Game Giải Trí Trực Tuyến Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TDTC <https://tdtc1.us/>`_ một cổng game giải trí trực tuyến nổi bật tại châu Á, được thành lập vào năm 2021 bởi tập đoàn Mach86 Technology Corp. Với giấy phép hợp pháp từ PAGCOR, TDTC đã nhanh chóng thu hút đông đảo người chơi nhờ vào sự đa dạng trong game và tính minh bạch cao. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người chơi có thể tham gia vào các trò chơi như game bài đổi thưởng, casino trực tuyến, bắn cá, lô đề, tài xỉu, và nổ hũ. Đặc biệt, TDTC sử dụng công nghệ bảo mật SSL tiên tiến và giao diện thân thiện, giúp người dùng dễ dàng trải nghiệm và quản lý tài chính cá nhân một cách hiệu quả.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 21d/18 Đ. Âu Cơ, Phường 14, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0989861021. 
 
-.. toctree::
+Email: info@tdtc1.us. 
 
-   usage
-   api
+Website: https://tdtc1.us/ 
+
+#tdtc #trangchutdtc #dangkytdtc #dangnhaptdtc #linktdtc
